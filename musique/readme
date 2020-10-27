@@ -1,0 +1,35 @@
+Top 50 file
+Organize Your Music can help you slice and dice your music collection by a wide range of properties:
+Genre - the genre of the track
+Year - the release year of the recording. Note that due to vagaries of releases, re-releases, re-issues and general madness, sometimes the release years are not what you'd expect.
+Added - the earliest date you added the track to your collection.
+Beats Per Minute (BPM) - The tempo of the song.
+Energy - The energy of a song - the higher the value, the more energtic. song
+Danceability - The higher the value, the easier it is to dance to this song.
+Loudness (dB) - The higher the value, the louder the song.
+Liveness - The higher the value, the more likely the song is a live recording.
+Valence - The higher the value, the more positive mood for the song.
+Length - The duration of the song.
+Acousticness - The higher the value the more acoustic the song is.
+Speechiness - The higher the value the more spoken word the song contains.
+Popularity - The higher the value the more popular the song is.
+Duration - The length of the song.
+
+
+_____________________________________________________
+
+
+Context
+The story behind this data set and analysis is just a combination of my interest in data science and metal music. I was looking for interesting data that I could analyze and this happen to be one of the first I started exploring.
+
+Content
+The world population information was a direct download so I did not have to do any work to get it. This data set consists of population information for countries on earth from the years 1960 to 2015.
+
+The metal band information was scraped from the website http://metalstorm.net/ and consists of the following
+
+band name
+how many fans the band has on the website
+when the band formed
+when the band split
+the country of origin on the band
+the styles of the band
