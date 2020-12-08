@@ -1,2 +1,2 @@
 # session_2
-session 2
+Matériels séance 2 Dataviz & Big Data
