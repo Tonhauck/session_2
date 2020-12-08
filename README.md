@@ -1,2 +1,2 @@
-# session_2
-Matériels séance 2 Dataviz & Big Data
+# Séance 2
+Matériels - Séance 2 Dataviz & Big Data
